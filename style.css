@@ -1,3 +1,5 @@
+/* Universal Styles */
+
 html {
     display: block;
     /* For copy/paste reference
@@ -15,11 +17,23 @@ body, h1, h2 {
     font-weight: 200;
 }
 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+/* Container Class */
+
 .container {
     border: 2px solid black;
     padding: 10px;
     margin: 10px auto;
 }
+
+/* Color Container Box */
 
 .color-container {
     width: 100%;
@@ -32,6 +46,8 @@ body, h1, h2 {
     margin: 20px auto;
     min-height: 100px;
 }
+
+/* Color Instances */
 
 .verdigris {
     background-color: #75B9BE;
@@ -57,3 +73,5 @@ body, h1, h2 {
     background-color: #04724D;
     color: white;
 }
+
+/* Font Container Box */
