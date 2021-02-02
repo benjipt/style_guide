@@ -1,10 +1,13 @@
 html {
-    padding-left: 2rem;
     display: block;
     /* For copy/paste reference
     font-family: 'Cutive Mono', monospace;
     font-family: 'Permanent Marker', cursive;
     font-family: 'Roboto Slab', serif; */
+}
+
+body {
+    margin: 0 10%;
 }
 
 body, h1, h2 {
