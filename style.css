@@ -20,3 +20,20 @@ body, h1, h2 {
     padding: 10px;
     margin: 10px auto;
 }
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.verdigris {
+    background-color: #75B9BE;
+    color: black;
+}
