@@ -85,3 +85,12 @@ p {
 }
 
 /* Font Container Box */
+
+.font-container {
+    display: block;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
