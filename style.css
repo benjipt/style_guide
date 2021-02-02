@@ -1,8 +1,14 @@
 html {
     padding-left: 2rem;
+    display: block;
     /* For copy/paste reference
     font-family: 'Antic Slab', serif;
     font-family: 'Monoton', cursive;
     font-family: 'Source Code Pro', monospace; */
 }
 
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
