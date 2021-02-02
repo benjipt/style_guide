@@ -35,6 +35,10 @@ p {
     margin-inline-end: 0px;
 }
 
+.quote {
+    font-style: italic;
+}
+
 /* Container Class */
 
 .container {
@@ -127,3 +131,6 @@ p {
 .bold {
     font-weight: 600;
 }
+
+/* Text Style Container Box */
+
