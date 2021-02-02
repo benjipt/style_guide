@@ -94,3 +94,36 @@ p {
     width: 45%;
     display: inline-block;
 }
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+/* Font Instances */
+
+.cutive-mono {
+    font-family: 'Cutive Mono', monospace;
+}
+
+.roboto-slab {
+    font-family: 'Roboto Slab', serif;
+}
+
+.permanent-marker {
+    font-family: 'Permanent Marker', cursive;
+}
+
+/* Font Styles */
+
+.regular {
+    font-weight: 400;
+}
+
+.light {
+    font-weight: 200;
+}
+
+.bold {
+    font-weight: 600;
+}
