@@ -17,4 +17,4 @@ Style Guide project from Codecademy.com | in Full-Stack Engineer Pro Path
 Complete, but may implement changes to style in future.
 
 ## Launch
-View (here)['https://benjipthompson.github.io/style_guide/']
+View [here](https://benjipthompson.github.io/style_guide/)
