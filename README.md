@@ -17,6 +17,4 @@ Style Guide project from Codecademy.com | in Full-Stack Engineer Pro Path
 Complete, but may implement changes to style in future.
 
 ## Launch
-1. Clone Repo in directory of choosing:  
-`git clone https://github.com/benjipthompson/style_guide.git`
-2. Open index.html in browswer
+View (here)[https://benjipthompson.github.io/style_guide/]
